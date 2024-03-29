@@ -1,3 +1,5 @@
+<img src=https://github.com/ma7hz/jokenpo/blob/main/imgs/jokenpo.PNG></img>
+
 <p>Uma versão web do clássico jogo de Pedra, Papel, e Tesoura; ou mais conhecido por todos nós como Jokenpo! Feito diretamente do curso DevClub.
 
 Neste projeto, coloquei mais um pouco dos meus estudos em JavaScript em prática; foi colocado em teste as teorias aprendidas de Functions e seus derivados.
